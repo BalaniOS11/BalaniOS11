@@ -2,7 +2,7 @@
 
 
 
-# **BALAN B**                         ### *iOS Developer*
+# **BALAN B**                         *iOS Developer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://in.linkedin.com/in/balan-b-43b15326a)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat&logo=whatsapp)](https://wa.me/qr/J6WAFJS2L6YQP1)  
